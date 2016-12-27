@@ -1,2 +1,7 @@
-# hello-whirlled2
-This is a new hello world test.
+# pulse-detection
+
+Matlab codes to detect pulses in broadband data by looking for steps in acceleration.
+
+Contents
+======
+
