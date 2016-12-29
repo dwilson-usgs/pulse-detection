@@ -2,6 +2,9 @@
 
 Matlab codes to detect pulses in broadband data by looking for steps in acceleration.
 
+This is the software used for the analysis in the manuscript: Detection and Characterization of Pulses in Broadband Seismometers
+D. Wilson, A. Ringler, C.R. Hutt (in review).
+
 Contents
 ======
 * PulseAnalysis_test.m  - code to run an example pulse detection run.
